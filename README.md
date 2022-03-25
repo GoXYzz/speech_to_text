@@ -1,5 +1,5 @@
 # speech_to_text
-Simple way to convert speech to text in python, including Serbian language and 50 more languages.
+Simple way to convert speech to text in python, including Serbian and 50 other languages.
 
 # Installation
 
